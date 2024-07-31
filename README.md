@@ -1,138 +1,49 @@
-# TACHYONS
+<p align="center">
+ 
+ <img src="https://badges.pufler.dev/visits/moturiphil/moturiphil"/> 
+ <img src="https://komarev.com/ghpvc/?username=moturiphil"/>
+ <img src="https://badges.pufler.dev/updated/moturiphil/moturiphil"/>
+ <img src="https://badges.pufler.dev/repos/moturiphil"/>
+ <img src="https://badges.pufler.dev/commits/monthly/moturiphil" />
 
-Functional CSS for humans.
+</p>
 
-Quickly build and design new UI without writing CSS.
+## Hey there 👋
 
-## Principles
+I am Philip Matunda, Avid programmer passionate about code, design, startups and technology.
 
-* Everything should be 100% responsive
-* Everything should be readable on any device
-* Everything should be as fast as possible
-* Designing in the browser should be easy
-* It should be easy to change any interface or part of an interface without breaking any existing interfaces
-* Doing one thing extremely well promotes reusability and reduces repetition
-* Documentation helps promote reusability and shared knowledge
-* CSS shouldn't impede accessibility or the default functionality of HTML
-* You should send the smallest possible amount of code to the user
 
-## Features
+<br /><br />
 
-* Mobile-first CSS architecture
-* 490 accessible color combinations
-* 8px baseline grid
-* Multiple debugging utilities to reduce layout struggles
-* Single-purpose class structure
-* Optimized for maximum gzip compression
-* Lightweight (~14kB)
-* Usable across projects
-* Growing open source component library
-* Works well with plain HTML, React, Ember, Angular, Rails and more
-* Infinitely nestable responsive grid system
-* Built with PostCSS
 
-## Getting Started
+<h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
-Docs can be found at http://tachyons.io/docs
-The modules are generally pretty small and thus quick and easy to read.
+<p align="center">
+  
+<!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
+<a href="mailto: philipmatunda@gmail.com">
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/philip-matunda">
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+ <a href="https://twitter.com/philipmatunda">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+ </a>
+ <a href="https://www.npmjs.com/~moturiphil">
+  <img src="https://img.shields.io/badge/npm-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm logo"/>
+ </a>
+ <a href="https://www.goodreads.com/user/show/142525237-philip-matunda">
+  <img src="https://img.shields.io/badge/Goodreads-382110?style=for-the-badge&logo=goodreads&logoColor=white" alt="Goodreads logo"/>
+ </a>
+ <a href="https://medium.com/@matundaphyl">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium logo"/>
+ </a>
+</p>
 
-### Use the CDN
 
-The quickest and easiest way to start using Tachyons is to include a reference
-to the minified file in the head of your HTML file.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moturiphil&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p>
 
-```html
-<link rel="stylesheet" href="https://unpkg.com/tachyons@4/css/tachyons.min.css">
-```
 
-### Local Setup
-
-Clone the repo from Github and install dependencies through npm.
-
-```
-git clone https://github.com/tachyons-css/tachyons.git
-cd tachyons
-npm install
-```
-
-#### Dev
-
-If you want to just use everything in tachyons/src as a jumping off point and
-edit all the code yourself, you can compile all of your wonderful changes by
-running:
-
-```npm start```
-
-This will output both minified and unminified versions of the CSS to the CSS directory and watch the src directory for changes.
-It's aliased to the command:
-
-```npm run build:watch```
-
-If you'd like to just build the CSS once without watching the src directory, run:
-
-```npm run build```
-
-If you want to check that a class hasn't been redefined or 'mutated,' there is a linter to check that all of the classes have only been defined once. This can be useful if you are using another library or have written some of your own CSS and want to make sure there are no naming collisions. To do this run the command:
-
-```npm run mutations```
-
-## Docs
-
-The tachyons docs located at http://tachyons.io are all open source and located at https://github.com/tachyons-css/tachyons-css.github.io
-
-You can clone the docs and use them as a template for documenting your own design system / patterns / components.
-While not everything is automated, the component library generation makes it extremely easy to
-generate and organize the documentation for components as demonstrated at http://tachyons.io/components
-
-### Community Resources
-
-- [DWYL Learn Tachyons](https://github.com/dwyl/learn-tachyons): Learn how to use Tachyons to craft beautiful, responsive, functional and fast UI with minimal CSS
-- [Tachyons TLDR](https://tachyons-tldr.now.sh/#/classes): Quick lookup for Tachyons classes, scales and color palette
-- [Tachyons Pro](https://tachyonspro.netlify.app/): Fun quiz for memorizing class names
-
-## Contributing
-
-Please read our [code of conduct](https://github.com/tachyons-css/tachyons/blob/master/code-of-conduct.md) for contributors.
-
-## Tachyons in Production
-
-A longer list of sites that use tachyons in production can be found in sites.md
-We love letting the community see what people are building. Please add your link to sites.md in a PR or by opening an issue if you're willing to share to your site or project.
-
-**Featured Sites**
-
-* https://interfacelovers.com
-* https://npmjs.com
-* https://womenwho.design
-* https://friendstalkfrontend.com
-* https://play.webvr.rocks
-* https://gohugo.io
-* https://coralproject.net
-* http://www.philipyoungg.com
-* https://gitpoint.co
-* https://2017.nodeconf.com.ar
-* https://goldenstaterecord.com
-* http://hicuties.com
-* https://urlbox.io
-* https://fontawesome.com
-* https://purple3.herokuapp.com
-* http://blunt.af/tachy.app/
-* https://fenderdigital.github.io/css-utilities/intro/
-* https://play.cash
-* https://bitmidi.com
-
-And of course...
-* http://tachyons.io
-
-## Sponsors
-
-Development of Tachyons is supported by
-
-* [Digital Ocean](https://digitalocean.com)
-* [DWYL](https://dwyl.com)
-* [VTEX](https://vtex.com)
-* [Manifold](https://manifold.co)
-
-## Help
-
-If you have a question or need help feel free to [open an issue here](https://github.com/tachyons-css/tachyons/issues/new) or jump into the [Tachyons slack channel](http://tachyons-slack-invite.herokuapp.com).
