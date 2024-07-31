@@ -42,12 +42,11 @@ I am Philip Matunda, Avid programmer passionate about code, design, startups and
 </p>
 
 
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=moturiphil&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
-<br /><hr />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moturiphil&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+  <a href="https://app.daily.dev/moturiphil">
+    <img src="https://api.daily.dev/devcards/v2/cAy29pRiFhqz56x5KvMia.png?type=default&r=118" width="356" alt="Phil's Dev Card"/>
+  </a>
+</p>
 
-## Connect with me
-
-<a href="https://app.daily.dev/moturiphil"><img src="https://api.daily.dev/devcards/v2/cAy29pRiFhqz56x5KvMia.png?type=default&r=118" width="356" alt="Phil's Dev Card"/></a>
 
