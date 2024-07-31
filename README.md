@@ -45,3 +45,8 @@ I am Philip Matunda, Avid programmer passionate about code, design, startups and
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=moturiphil&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
+
+## Connect with me
+
+[![daily.dev Badge](https://example.com/path/to/dailydev-badge)](https://app.daily.dev/yourprofile)
+
