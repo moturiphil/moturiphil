@@ -31,13 +31,13 @@ I am Philip Matunda, Avid programmer passionate about code, design, startups and
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
  </a>
  <a href="https://www.npmjs.com/~moturiphil">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="npm logo"/>
+  <img src="https://img.shields.io/badge/npm-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm logo"/>
  </a>
  <a href="https://www.goodreads.com/user/show/142525237-philip-matunda">
   <img src="https://img.shields.io/badge/Goodreads-382110?style=for-the-badge&logo=goodreads&logoColor=white" alt="Goodreads logo"/>
  </a>
-  <a href="https://medium.com/@matundaphyl">
-  <img src="https://img.shields.io/badge/Goodreads-382110?style=for-the-badge&logo=goodreads&logoColor=white" alt="Medium logo"/>
+ <a href="https://medium.com/@matundaphyl">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium logo"/>
  </a>
 </p>
 
