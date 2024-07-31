@@ -12,7 +12,7 @@
 
 ## Hey there 👋
 
-I am Reuben Jefwa, an enthusiast currently hacking on some of my projects.
+I am Philip Matunda, an enthusiast currently hacking on some of my projects.
 
 I love to work with and on mobile apps, interpreters, compilers and distributed
 systems and retro computers. I am proficient with [Elixir](https://elixir-lang.org),
