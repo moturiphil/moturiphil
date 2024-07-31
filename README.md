@@ -12,16 +12,7 @@
 
 ## Hey there 👋
 
-I am Philip Matunda, an enthusiast currently hacking on some of my projects.
-
-I love to work with and on mobile apps, interpreters, compilers and distributed
-systems and retro computers. I am proficient with [Elixir](https://elixir-lang.org),
-[Java](https://www.java.com), [Golang](https://golang.org), Kotlin, Swift, JavaScript,
-TypeScript and Dart amongst others. Currently hacking on wasm, retro systems and
-Phoenix LiveView (spoiler alert, I love it!)
-
-As you might have guessed, I love lesser-known programming languages and
-systems.
+I am Philip Matunda, Avid programmer passionate about code, design, startups and technology.
 
 
 <br /><br />
@@ -32,18 +23,14 @@ systems.
 <p align="center">
   
 <!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
-<a href="mailto: reubenjefwa1@gmail.com">
+<a href="mailto: philipmatunda@gmail.com">
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/reuben-balozi-18991420b/">
+<a href="https://www.linkedin.com/in/philip-matunda">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
- <a href="https://twitter.com/kid_indigoo">
+ <a href="https://twitter.com/philipmatunda">
  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-  <a href="mywa.link/axwfuogd">
- <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
 </p>
 
 
@@ -59,7 +46,7 @@ systems.
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/slkqj4iixwsz16zpgd67zh7rv)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31rqev2gd34ohhqgkgkibsvpvfgm)
 <br/>
 
 <br>
