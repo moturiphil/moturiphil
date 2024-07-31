@@ -2,11 +2,11 @@
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/visits/reubendeekay/reubendeekay"/> 
- <img src="https://komarev.com/ghpvc/?username=reubendeekay"/>
- <img src="https://badges.pufler.dev/updated/reubendeekay/reubendeekay"/>
- <img src="https://badges.pufler.dev/repos/reubendeekay"/>
- <img src="https://badges.pufler.dev/commits/monthly/reubendeekay" />
+ <img src="https://badges.pufler.dev/visits/moturiphil/moturiphil"/> 
+ <img src="https://komarev.com/ghpvc/?username=moturiphil"/>
+ <img src="https://badges.pufler.dev/updated/moturiphil/moturiphil"/>
+ <img src="https://badges.pufler.dev/repos/moturiphil"/>
+ <img src="https://badges.pufler.dev/commits/monthly/moturiphil" />
 
 </p>
 
@@ -37,23 +37,3 @@ I am Philip Matunda, Avid programmer passionate about code, design, startups and
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=reubendeekay&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
-
-
-<br />
-<br />
-
----
-
-### Now Playing 🎧
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31rqev2gd34ohhqgkgkibsvpvfgm)
-<br/>
-
-<br>
-<p align="center">
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-  
-  
-  <p/>
-  <br/>
-
