@@ -48,5 +48,5 @@ I am Philip Matunda, Avid programmer passionate about code, design, startups and
 
 ## Connect with me
 
-[![daily.dev Badge](https://example.com/path/to/dailydev-badge)](https://app.daily.dev/yourprofile)
+[![daily.dev Badge](https://example.com/path/to/dailydev-badge)](https://app.daily.dev/moturiphil)
 
