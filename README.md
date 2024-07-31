@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70766&size=38&center=true&width=1100&height=180&lines=Hi+there%2C+Welcome+to+my+Github+profile.+;If+you+could+App-ify+anything+in+the+world...;What+would+it+be%3F)](https://git.io/typing-svg)
-
 <p align="center">
  
  <img src="https://badges.pufler.dev/visits/moturiphil/moturiphil"/> 
@@ -35,5 +33,5 @@ I am Philip Matunda, Avid programmer passionate about code, design, startups and
 
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=reubendeekay&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=moturiphil&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
