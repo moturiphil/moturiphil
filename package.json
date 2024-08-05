@@ -47,6 +47,7 @@
     "build:watch": "watch \"npm run build\" ./src/"
   },
   "dependencies": {
-    "browser-sync": "^3.0.2"
+    "browser-sync": "^3.0.2",
+    "vue": "^3.4.35"
   }
 }
