@@ -7069,21 +7069,22 @@ html {
 .projects-section {
   display: flex;
   flex-direction: column; /* Arrange cards vertically */
-  gap: 20px;
-  padding: 20px;
-  max-height: 80vh; /* Adjust based on your design */
+  gap: 20px; /* Space between project cards */
+  padding: 20px; /* Padding around the section */
+  max-height: 80vh; /* Limit height and allow scrolling */
   overflow-y: auto; /* Enable vertical scrolling */
+  font-family: 'Avenir', sans-serif; /* Font family for consistency */
 }
 
 /* Individual Project Card */
 .project-card {
-  background-color: #fff;
-  border: 1px solid #ddd;
-  border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  padding: 20px; /* Adjust padding for a narrower card */
-  box-sizing: border-box;
-  transition: transform 0.3s ease;
+  background-color: #fff; /* Background color for the card */
+  border: 1px solid #ddd; /* Border color */
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Shadow effect */
+  padding: 20px; /* Padding inside the card */
+  box-sizing: border-box; /* Include padding and border in element's total width and height */
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition for hover effects */
   width: 100%; /* Full width for mobile */
   max-width: 1000px; /* Maximum width for larger screens */
   margin: 0 auto; /* Center the card horizontally */
@@ -7099,28 +7100,60 @@ html {
 
 /* Project Image */
 .project-image {
-  width: 150px; /* Adjust based on your design */
-  height: 150px; /* Maintain aspect ratio */
+  width: 150px; /* Width of the image */
+  height: 150px; /* Height of the image */
   object-fit: cover; /* Ensure image covers its area */
-  border-radius: 8px; /* Optional: Rounded corners */
+  border-radius: 8px; /* Rounded corners */
+  transition: transform 0.3s ease; /* Smooth zoom effect on hover */
+}
+
+.project-card:hover .project-image {
+  transform: scale(1.05); /* Slightly increase the size of the image on hover */
 }
 
 /* Project Text */
 .project-text {
   flex: 1; /* Take up remaining space */
-  text-align: left;
+  text-align: left; /* Align text to the left */
+  font-size: 1.125rem; /* Font size for text */
+  color: #333; /* Text color for better readability */
+}
+
+/* Project Description */
+.project-description {
+  margin-top: 10px; /* Space above the description */
+  text-align: left; /* Align text to the left */
+  font-size: 0.875rem; /* Font size for description */
+  color: #81899d; /* Light slate gray color for description */
+  line-height: 1.6; /* Improve line spacing for readability */
 }
 
 /* Hover effect for Project Card */
 .project-card:hover {
-  transform: translateY(-10px);
+  transform: translateY(-10px); /* Slightly lift the card on hover */
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); /* Enhanced shadow effect */
 }
 
-.project-description {
-  margin-top: 10px;
-  text-align: left; /* Align text to the left */
-  margin-top: 10px;
+/* Media Queries for Mobile Devices */
+@media (max-width: 768px) {
+  .project-card {
+    padding: 15px; /* Adjust padding for mobile */
+  }
+
+  .project-image {
+    width: 100%; /* Make image responsive */
+    height: auto; /* Maintain aspect ratio */
+    margin-bottom: 20px; /* Space between image and text */
+  }
 }
+
+@media (min-width: 769px) {
+  .project-image {
+    width: 150px; /* Adjust size for larger screens */
+    height: 150px; /* Maintain aspect ratio */
+  }
+}
+
 
 /* Media Queries for Mobile Devices */
 @media (max-width: 768px) {
@@ -7201,4 +7234,72 @@ footer {
 
 .email-link:hover {
   text-decoration: underline;
+}
+
+.bt {
+  border-top-style: solid;
+  border-top-width: 1px;
+}
+
+.bb {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+}
+
+.b--black-10 {
+  border-color: rgba(0, 0, 0, 0.1);
+}
+
+/* Styles for the article section */
+/* Styles for the article section */
+/* Styles for the article section */
+.article-section {
+  max-width: 40rem; /* Maximum width for the section */
+  margin: 0 auto; /* Center the section */
+  font-family: "Avenir", sans-serif;
+  /* text-align: center; Center the text */
+  padding: 2rem 1rem; /* Add padding for space around content */
+}
+
+.article-section h1 {
+  font-size: 2rem; /* Adjust font size for better readability */
+  font-weight: 600; /* Bold */
+  color: #04143a; /* Dark blue */
+  margin: 1rem 0 0.5rem 0; /* Margin around heading */
+  letter-spacing: 0.3px;
+}
+
+.article-section p {
+  color: #81899d; /* Light slate gray */
+  margin-top: 0.5rem; /* Space between paragraphs */
+  line-height: 1.6; /* Improve line spacing for readability */
+}
+
+.article-section a {
+  color: #468ee5; /* Link color */
+  text-decoration: none; /* Remove underline */
+  border-bottom: 1px solid transparent; /* Subtle link effect */
+  transition: border-bottom 0.2s ease;
+}
+
+.article-section a:hover {
+  border-bottom: 1px solid ##81899d; /* Underline on hover */
+}
+
+.article-section article {
+  border-top: 1px solid #ddd; /* Separator line */
+  border-bottom: 1px solid #ddd; /* Separator line */
+  padding: 1rem 0; /* Padding for each article */
+  margin-bottom: 2rem; /* Space between articles */
+}
+
+.lh-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; /* Space between text and icon */
+}
+
+.lh-title i {
+  margin-left: 10px; /* Space between the text and the icon */
+  color: #333; /* Optional: set the color of the icon */
 }
