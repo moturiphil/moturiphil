@@ -10,7 +10,7 @@
 
 ## Hey there 👋
 
-I am Philip Matunda, Avid programmer passionate about code, design, startups and technology.
+I am Philip Matunda, Software Engineer with an interest in design, startups and technology.
 
 
 <br /><br />
