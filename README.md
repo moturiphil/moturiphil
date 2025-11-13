@@ -10,4 +10,4 @@
 
 ## Hey there 👋
 
-I am Phil, Software Engineer with an eye for startups and AI technology.
+I am Phil, Software Engineer with passion for building startups and AI technology.
